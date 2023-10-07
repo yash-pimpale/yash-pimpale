@@ -4,7 +4,9 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yash-pimpale&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
+``
+"We are surrounded by data, but starved for insights"
+``
 
 ## :office_worker: About Me
 
