@@ -1,24 +1,28 @@
-Hi Folks,
+***Hi There,*** <img align="right" src="https://komarev.com/ghpvc/?username=yash-pimpale&style=flat-square&color=blue" alt=""/>
+
+***Glad to see you here!***
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yash-pimpale&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
-- 👋 Hi, I’m @yash-pimpale
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## :office_worker: About Me
 
-## Connect with me
+I am a highly skilled data scientist with a Master's degree in Data & Computational Science from University College Dublin (UCD), Ireland. With around 4 years of experience in software development, I bring a unique blend of data expertise and programming skills to the table.
+
+I'm proficient in data manipulation, statistical modelling, and machine learning techniques. Also have a strong background in programming, coupled with a passion for problem-solving and a keen eye for detail.
+
+As a software engineer I'm adept at end-to-end software design & development including requirement gathering, documentation, infrastructure setup, integration development and unit testing.
+
+## :handshake: Connect with me
 
 <a href="https://www.linkedin.com/in/yash-pimpale"><img align="left" src="https://github.com/yash-pimpale/yash-pimpale/blob/main/Media/LinkedIn.png" width="35px" height="35px"/></a> 
 
 <a href="https://www.instagram.com/yashpimpale/"><img align="left" src="https://github.com/yash-pimpale/yash-pimpale/blob/main/Media/Instagram.jpg" width="37px" height="37px"/>
 
-</a> <a href="mailto:yashpimpale6@gmail.com"><img align="left" src="https://github.com/yash-pimpale/yash-pimpale/blob/main/Media/Gmail.png" width="37px" height="34px"/></a> </br>
+</a> <a href="mailto:yashpimpale6@gmail.com"><img align="left" src="https://github.com/yash-pimpale/yash-pimpale/blob/main/Media/Gmail.png" width="37px" height="34px"/></a> </br></br>
 
-## Technical Skills
+## :briefcase: Technical Skills
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -28,7 +32,6 @@ Hi Folks,
 
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pimpale&layout=compact)](https://github.com/yash-pimpale)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pimpale&layout=compact&theme=vision-friendly-dark)](https://github.com/yash-pimpale)
