@@ -1,4 +1,6 @@
-***Hi There,*** <img align="right" src="https://komarev.com/ghpvc/?username=yash-pimpale&style=flat-square&color=blue" alt=""/>
+***Hi There,*** 
+
+<img align="left" src="https://komarev.com/ghpvc/?username=yash-pimpale&color=blueviolet&style=flat" alt=""/>
 
 ***Glad to see you here!***
 
@@ -36,4 +38,4 @@ As a software engineer I'm adept at end-to-end software design & development inc
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pimpale&layout=compact&theme=vision-friendly-dark)](https://github.com/yash-pimpale)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pimpale&hide=javascript,css,scss,html&theme=tokyonight)
