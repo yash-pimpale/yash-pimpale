@@ -14,9 +14,7 @@
 
 ## :office_worker: About Me
 
-An enthusiastic Data Engineer with a Master's degree in Data & Computational Science from University College Dublin (UCD), Ireland. I have years of experience in designing Snowflake data pipelines, ETL workflow management, developing reports in Power BI, and jenkins deployment within a prominent fintech CRM provider.
-
-I'm proficient in data warehousing, statistical modelling, and machine learning techniques. Also have a strong background in programming, coupled with a passion for problem-solving and a keen eye for detail.
+I am a highly motivated and detail-oriented Data Engineer with a Master’s degree in Data & Computational Science from University College Dublin (UCD), Ireland. With several years of hands-on experience in the data industry, I specialize in data modeling, designing robust data warehousing solutions, building efficient ETL pipelines, and developing insightful reports using Power BI. My expertise extends to deploying scalable data solutions on cloud platforms like Azure, utilizing version control systems such as GitHub for seamless collaboration and deployment. I am proficient in dimensional modeling (star schema, snowflake schema), data normalization, and optimizing data structures for performance and scalability. Passionate about problem-solving, I leverage my strong background in programming, statistical modeling, and machine learning to deliver data-driven solutions that drive business value.
 
 ## :handshake: Connect with me
 
